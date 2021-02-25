@@ -197,6 +197,7 @@ img {
     text-align: center;
     display: block;
     font-size: 26px;
+    bottom: 30px;
     margin: 4px 2px;
     cursor: pointer;
     text-decoration: none;
